@@ -5,7 +5,7 @@
 📍 Chhatrapati Sambhajinagar, MH | Open to Relocate
 
 ## 🛠️ Skills
-- **Languages:** Java, Python, JavaScript, C++, PHP
+- **Languages:** Java, Python, JavaScript, C,C++
 - **Web:** HTML5, CSS3, Responsive Design
 - **Database:** SQL, MySQL
 - **Tools:** Git, VS Code, Power BI, MS Excel
