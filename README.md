@@ -13,7 +13,7 @@
 
 ## 📂 Projects
 - 🏥 [Doctor Appointment Management System](https://github.com/gadekarvishal08/Doctor-Appointment-System)
-- 📱 Mobile Sales Dashboard (Power BI)
+- 📱 - [Mobile Sales Dashboard (Power BI)](https://github.com/gadekarvishal08/PowerBI-Mobile-Sales-Dashboard)
 
 ## 📜 Certifications
 - Java Assessment Certification (2025)
@@ -27,4 +27,4 @@
 - 📧 gadekarvishal483@gmail.com
 - 📱 +91-8010252113
 
-## 📫 Conect With me on www.linkedin.com/in/vishal-gadekar483
+## 📫Connect With me on www.linkedin.com/in/vishal-gadekar483
