@@ -1,7 +1,7 @@
 # Hi, I'm Vishal Gadekar! 👋
 
 🎓 BSc Computer Science Graduate | 2025 | BAMU
-💻 Aspiring Software Developer | IT Support | Data Analytics
+💻 Aspiring Software Developer | Data Analytics
 📍 Chhatrapati Sambhajinagar, MH | Open to Relocate
 
 ## 🛠️ Skills
