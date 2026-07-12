@@ -13,12 +13,18 @@
 
 ## 📂 Projects
 - 🏥 [Doctor Appointment Management System](https://github.com/gadekarvishal08/Doctor-Appointment-System)
+- 📱 Mobile Sales Dashboard (Power BI)
 
 ## 📜 Certifications
 - Java Assessment Certification (2025)
 - SQL Micro Course (2026)
 - Power BI Micro Course (2026)
+- Data Science & Analytics — HP LIFE (July 2026)
+- Fundamentals of Machine Learning and Artificial Intelligence — AWS Training & Certification (July 2026)
+- Trust and Security with Google Cloud — Google Cloud (July 2026
 
 ## 📫 Contact
 - 📧 gadekarvishal483@gmail.com
 - 📱 +91-8010252113
+
+## 📫 Conect With me on www.linkedin.com/in/vishal-gadekar483
